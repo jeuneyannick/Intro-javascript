@@ -9,9 +9,6 @@ function afficherContact(contacts){
         console.log(contact)
     });
 }
-var gestionContacts = {
-    lister: function 
-}
 
 
 var quit = "quitter";
