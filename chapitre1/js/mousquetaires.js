@@ -10,4 +10,4 @@ console.log(mousquetaires);
 
 mousquetaires.forEach(function(mousquetaire) {
     console.log(mousquetaire); 
-}); 
+});
