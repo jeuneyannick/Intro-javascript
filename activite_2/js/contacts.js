@@ -10,10 +10,8 @@ function afficherContact(contacts){
     });
 }
 
-
 var quit = "quitter";
 while( saisie !== quit ){
-    if
     var saisie = prompt("Choississez une option");
     afficherContact(contacts);
 };
